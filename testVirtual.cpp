@@ -26,7 +26,7 @@ int main() {
     c.Bar();
 
     FooInterface* foo = &c;
-    c->Foo();
+    foo->Foo();
 
     BarInterface* bar = (BarInterface*)(foo);
     bar->Bar();

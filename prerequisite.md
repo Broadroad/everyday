@@ -1,2 +1,3 @@
 - How CPU execute a program. From [os](https://www.youtube.com/watch?v=XM4lGflQFvA) perspect. 
 - [How CPU execute a program in detail.](https://www.youtube.com/watch?v=jFDMZpkUWCw) 
+- [ALU detail](https://www.youtube.com/watch?v=1I5ZMmrOfnA&feature=youtu.be)

@@ -1,0 +1,1 @@
+- How CPU execute a program. From [os](https://www.youtube.com/watch?v=XM4lGflQFvA) perspect. 

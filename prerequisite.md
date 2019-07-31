@@ -3,3 +3,4 @@
 - [ALU detail](https://www.youtube.com/watch?v=1I5ZMmrOfnA&feature=youtu.be)
 - [Memory and Register](https://www.youtube.com/watch?v=fpnE6UAfbtU&feature=youtu.be)
 - [CPU](https://www.youtube.com/watch?v=FZGugFqdr60&feature=youtu.be)
+- [program and instruction](https://www.youtube.com/watch?v=zltgXvg6r3k&feature=youtu.be)

@@ -10,6 +10,9 @@ public:
 class BarInterface {
 public:
     virtual ~BarInterface() = default;
+    virtual void test1(){cout << "te";};
+    virtual void test2(){cout << "te";};
+    virtual void test(){cout << "te";};
     virtual void Bar() = 0;
 };
 

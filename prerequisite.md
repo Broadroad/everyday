@@ -2,3 +2,4 @@
 - [How CPU execute a program in detail.](https://www.youtube.com/watch?v=jFDMZpkUWCw) 
 - [ALU detail](https://www.youtube.com/watch?v=1I5ZMmrOfnA&feature=youtu.be)
 - [Memory and Register](https://www.youtube.com/watch?v=fpnE6UAfbtU&feature=youtu.be)
+- [CPU](https://www.youtube.com/watch?v=FZGugFqdr60&feature=youtu.be)
